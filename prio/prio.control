@@ -1,0 +1,4 @@
+comment = 'Modifies (deprioritizes) the IO and CPU priority of the current PostgreSQL process'
+default_version = '0.0.1'
+relocatable = true
+module_pathname = '$libdir/prio'
